@@ -1,0 +1,45 @@
+{
+  "client": [
+    {
+      "id": "1",
+      "name": "Jason M",
+      "phone": "+1234234",
+      "passport": "654747",
+      "createdAt": "20-02-2023"
+    },
+    {
+      "id": "2",
+      "name": "Anna E",
+      "phone": "+1345345",
+      "passport": "812393",
+      "createdAt": "21-02-2023"
+    },
+    {
+      "id": "1",
+      "name": "Martin K",
+      "phone": "+124564",
+      "passport": "232190",
+      "createdAt": "18-02-2023"
+    }
+  ],
+  "services": [
+    {
+      "title": "Infinity Pro",
+      "price": 12
+    },
+    {
+      "title": "Infinity Plus",
+      "price": 10
+    },
+    {
+      "title": "Infinity Lite",
+      "price": 8
+    }
+  ],
+  "staff": [
+    {
+      "name-staff": "Michel P",
+      "position": "advertiser"
+    }
+  ]
+}
